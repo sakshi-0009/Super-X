@@ -1,3 +1,5 @@
+//WAP to find the factorial of even number :
+
 package Assignment_01;
 
 public class FactorialOfEven {
@@ -22,3 +24,5 @@ public class FactorialOfEven {
         return fact;
     }
 }
+//Time complexity : O(N)
+//Space complexity : O(1)
