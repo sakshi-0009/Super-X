@@ -1,3 +1,5 @@
+//Print pattern :
+
 package Assignment_01;
 
 public class Pattern_02 {
@@ -29,3 +31,5 @@ public class Pattern_02 {
 		}
 	}
 }
+//Time complexity : O(N^2)
+//Space complexity : O(1)
