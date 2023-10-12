@@ -6,6 +6,7 @@ public class ReverseSum {
 
     public static void main(String[] args) {
         int n = 45689;
-
+        int reverse = 0;
+        
     }
 }
