@@ -1,9 +1,13 @@
-package Assignment_01;
+//Armstrong number :
 
+package Assignment_01;
+import java.io.*;
 public class ArmstrongNumber {
 
-	public static void main(String[] args) {
-		int n = 153;
+	public static void main(String[] args) throws IOException{
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		System.out.println("Enter number : ");
+		int n = Integer.parseInt(br.readLine());
         int temp1 = n;
         int count = 0;
         int sum = 0;
@@ -29,3 +33,5 @@ public class ArmstrongNumber {
         }
 	}
 }
+//Time complexity : O(N^2)
+//Space complexity : O(1)
