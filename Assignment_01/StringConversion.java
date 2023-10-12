@@ -1,5 +1,6 @@
-package Assignment_01;
+//WAP to convert all even indices of string to uppercase and odd indices to lowercase :
 
+package Assignment_01;
 public class StringConversion {
 
 	public static void main(String[] args) {
@@ -17,3 +18,5 @@ public class StringConversion {
         System.out.println(ans.toString());
 	}
 }
+//Time complexity : O(N)
+//Space complexity : O(1)
