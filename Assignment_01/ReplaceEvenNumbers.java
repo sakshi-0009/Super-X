@@ -1,4 +1,4 @@
-//WAP to reverse number and put it on successive number sum into an array :
+//WAP to replace even numbers with 1 :
 
 package Assignment_01;
 import java.io.*;
