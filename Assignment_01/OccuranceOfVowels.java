@@ -1,3 +1,5 @@
+//WAP to find occurance of vowels in given string:
+
 package Assignment_01;
 import java.io.*;
 public class OccuranceOfVowels {
@@ -30,3 +32,5 @@ public class OccuranceOfVowels {
         System.out.println("u="+uCount);
 	}
 }
+//Time complexity : O(N)
+//Space complexity : O(1)
