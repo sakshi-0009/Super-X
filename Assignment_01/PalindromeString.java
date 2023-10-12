@@ -1,3 +1,5 @@
+//WAP to check whether string is palindrome or not:
+
 package Assignment_01;
 import java.io.*;
 public class PalindromeString {
@@ -30,3 +32,5 @@ public class PalindromeString {
         }
 	}
 }
+//Time complexity : O(N)
+//Space complexity : O(1)
