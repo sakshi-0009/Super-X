@@ -3,6 +3,7 @@ package Leetcode_03;
 import java.io.*;
 
 public class ToLowerCase {
+	
     public static String toLowerCase(String s) {
         return s.toLowerCase();
     }
