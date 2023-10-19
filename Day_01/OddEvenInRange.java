@@ -1,4 +1,4 @@
-package Assignment_03;
+package Day_01;
 import java.io.*;
 public class OddEvenInRange {
 
