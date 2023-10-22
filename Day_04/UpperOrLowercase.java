@@ -1,6 +1,6 @@
 package Day_04;
 import java.io.*;
-class UpperOrLowercase {
+public class UpperOrLowercase {
 	
 	static void string(String s) {
 		char ch[] = s.toCharArray();
