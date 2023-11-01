@@ -1,7 +1,5 @@
 package Day_08;
-
 import java.io.*;
-
 public class Pattern_02 {
 
 	public static void main(String[] args) throws IOException{
